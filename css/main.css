@@ -1,0 +1,128 @@
+body {
+  background-color: rgb(221, 214, 186);
+}
+
+h1 {
+  background-color: rgb(184, 178, 155);
+  color: rgb(22, 1, 84);
+}
+
+h2 {
+  background-color: rgb(184, 178, 155);
+  color: rgb(22, 1, 84);
+}
+
+h3 {
+  background-color: rgb(184, 178, 155);
+  color: rgb(22, 1, 84);
+}
+
+.mybutton {
+  background-color: rgb(244, 136, 192);
+  color: rgb(22, 1, 84);
+}
+
+.text-icon {
+  color: rgb(22, 1, 84);
+}
+
+.bg-expertise {
+  background-color: rgb(184, 178, 155);
+}
+
+.bg-progressbar {
+  background-color: rgb(184, 178, 155);
+}
+
+.bg-html {
+  background-color: rgb(244, 136, 192);
+}
+
+.text-html {
+  color: rgb(244, 136, 192);
+}
+
+.bg-css3 {
+  background-color: rgb(172, 116, 244);
+}
+
+.text-css3 {
+  color: rgb(172, 116, 244);
+}
+
+.bg-sass {
+  background-color: rgb(229, 115, 86);
+}
+
+.text-sass {
+  color: rgb(229, 115, 86);
+}
+
+.bg-js {
+  background-color: rgb(250, 220, 130);
+}
+
+.text-js {
+  color: rgb(250, 220, 130);
+}
+
+.bg-wp {
+  background-color: rgb(22, 1, 84);
+}
+
+.text-wp {
+  color: rgb(22, 1, 84);
+}
+
+.bg-figma {
+  background-color: rgb(244, 80, 72);
+}
+
+.text-figma {
+  color: rgb(244, 80, 72);
+}
+
+.bg-suiteAdobe {
+  background-color: rgb(137, 147, 190);
+}
+
+.text-suiteAdobe {
+  color: rgb(244, 136, 192);
+}
+
+.bg-designUI {
+  background-color: rgb(75, 230, 121);
+}
+
+.text-designUI {
+  color: rgb(75, 230, 121);
+}
+
+.bg-designUX {
+  background-color: rgb(244, 136, 192);
+}
+
+.text-designUX {
+  color: rgb(244, 136, 192);
+}
+
+.bg-video {
+  background-color: rgb(127, 212, 238);
+}
+
+.text-video {
+  color: rgb(127, 212, 238);
+}
+
+.bg-portfolio {
+  background-color: rgb(240, 232, 202);
+}
+
+.bg-contact {
+  background-color: rgb(184, 178, 155);
+}
+
+.bg-input {
+  background-color: rgb(240, 232, 202);
+  color: color_bleu_violine;
+}/*# sourceMappingURL=main.css.map */

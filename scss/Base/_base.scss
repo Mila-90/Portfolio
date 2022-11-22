@@ -1,0 +1,140 @@
+body{
+    background-color:$color_body;
+    // background-image: url("../img/fond.jpeg"); 
+}
+
+h1{
+    background-color: $color_titre-bg;
+    color: $color_titre-text;
+   
+}
+
+h2{
+    background-color: $color_titre-bg;
+    color: $color_titre-text;
+   
+}
+
+h3{
+    background-color: $color_titre-bg;
+    color: $color_titre-text;
+   
+}
+
+.mybutton {
+
+    background-color: $color_button;
+    color: $color_titre-text;    
+    
+}
+.text-icon{
+    color: $color_bleu_violine;
+}
+
+.bg-expertise{
+    background-color:$color_brun_fonce;
+    
+    // background-image: url("../img/fond.jpeg"); 
+}
+
+// expertise développement
+.bg-progressbar{
+    background-color: $color_brun_fonce;
+}
+
+.bg-html {
+    background-color: $color_rose;
+}
+
+.text-html {
+    color: $color_rose;
+}
+
+
+.bg-css3 {
+    background-color: $color_violet_clair;
+}
+
+.text-css3 {
+    color: $color_violet_clair;
+}
+
+.bg-sass {
+    background-color: $color_rouge_orange;
+}
+
+.text-sass {
+    color: $color_rouge_orange;
+}
+
+.bg-js {
+    background-color: $color_jaune_clair;
+}
+
+.text-js {
+    color: $color_jaune_clair;
+}
+
+.bg-wp {
+    background-color: $color_bleu_violine;
+}
+
+.text-wp {
+    color: $color_bleu_violine;
+}
+
+// expertise design
+.bg-figma {
+    background-color: $color_rouge;
+}
+
+.text-figma {
+    color: $color_rouge;
+}
+
+
+.bg-suiteAdobe {
+    background-color: $color_bleu_gris;
+}
+
+.text-suiteAdobe {
+    color: $color_rose;
+}
+
+.bg-designUI {
+    background-color: $color_vert;
+}
+
+.text-designUI {
+    color: $color_vert;
+}
+
+.bg-designUX {
+    background-color: $color_rose;
+}
+
+.text-designUX {
+    color: $color_rose;
+}
+
+.bg-video {
+    background-color: $color_turquoise;
+}
+
+.text-video {
+    color: $color_turquoise;
+}
+// PORTFOLIO
+.bg-portfolio{
+    background-color:$color_brun_clair;
+}
+
+// Contact
+.bg-contact{
+    background-color:$color_brun_fonce;
+}
+
+.bg-input {
+    background-color:$color_brun_clair;
+    color:color_bleu_violine;
+}
