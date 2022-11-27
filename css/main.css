@@ -125,4 +125,9 @@ h3 {
 .bg-input {
   background-color: rgb(240, 232, 202);
   color: color_bleu_violine;
-}/*# sourceMappingURL=main.css.map */
+}
+
+.imgpoisson {
+  width: 300px;
+  height: 150px;
+}
